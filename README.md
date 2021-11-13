@@ -17,8 +17,6 @@
 # Blogs, Etc
 	
 * [Vitalik Buterin's Website](https://vitalik.ca/index.html)
-	
-* [Ethereum Bootcamp Post Graduation Resources](https://www.notion.so/Post-graduation-resources-f2ed184b2f884312819cdc5dd35100ab)
 
 * [egirl capital](https://www.egirlcapital.com/)
 	
