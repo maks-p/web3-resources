@@ -22,9 +22,9 @@
 
 * [egirl capital](https://www.egirlcapital.com/)
 
-*[Gaby's web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
+* [Gaby's web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
 
-*[Building an Inclusive World of Crypto](https://www.fwb.help/wip/building-an-inclusive-world-of-crypto)
+* [Building an Inclusive World of Crypto](https://www.fwb.help/wip/building-an-inclusive-world-of-crypto)
 	
 # Video
 	
@@ -99,4 +99,5 @@
 	
 * [Crytpocurrency Jobs](https://cryptocurrencyjobs.co/web3/)
 
-[Includes resources shared by @chriscantino (via Twitter) in this thread](https://twitter.com/chriscantino/status/1460339742764007427)
+##
+_[Includes resources shared by @chriscantino (via Twitter) in this thread](https://twitter.com/chriscantino/status/1460339742764007427)_
