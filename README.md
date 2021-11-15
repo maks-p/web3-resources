@@ -11,6 +11,8 @@
 * [Youtube | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ&t=0s&ab_channel=freeCodeCamp.org)
 	
 * [Dev.to | The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+
+* [Eat the Blocks Solidity Introduction](https://www.youtube.com/watch?v=p3C7jljTXaA&list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea)
 	
 * [React Refresh](https://scrimba.com/learn/learnreact/course-introduction-learning-philosophy-cWKkvVuL)
 	
