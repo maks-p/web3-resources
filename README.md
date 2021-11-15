@@ -19,8 +19,12 @@
 * [Vitalik Buterin's Website](https://vitalik.ca/index.html)
 
 * [egirl capital](https://www.egirlcapital.com/)
+
+*[Gaby's web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
+
+*[Building an Inclusive World of Crypto](https://www.fwb.help/wip/building-an-inclusive-world-of-crypto)
 	
-# Youtube Channels
+# Video
 	
 * [The Defiant](https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg)
 	
@@ -29,6 +33,8 @@
 * [Scott Bigelow](https://www.youtube.com/user/epheph33)
 	
 * [Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto/videos)
+
+* [a16z Crypto Startup School](https://a16z.com/crypto-startup-school/)
 	
 ## Explorers & Analytics
 	
@@ -69,14 +75,26 @@
 * [TokenSets](https://www.tokensets.com/explore)
 	
 * [DefiPulse](https://defipulse.com/)
+
+## NFTs
+
+* [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens/?__cf_chl_jschl_tk__=rGtrc_uNJSnYdopkOE02EymjOWM5cmyNl5xv3wU7pkw-1637000566-0-gaNycGzNDxE)
+
+* [a16z NFT canon](https://future.a16z.com/nft-canon/)
+
+*[NFTs make the Internet Ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
+
+* [Are NFTs Frigid Stars?](https://xenogothic.com/2021/10/07/are-nfts-frigid-stars/)
+
 	
 ## Misc	
 * [Flashbots](https://docs.flashbots.net/new-to-mev)
 	
 * [Gitcoin](https://gitcoin.co/learn)
 	
-* [Are NFTs Frigid Stars?](https://xenogothic.com/2021/10/07/are-nfts-frigid-stars/)
-	
+
 ## Jobs
 	
 * [Crytpocurrency Jobs](https://cryptocurrencyjobs.co/web3/)
+
+[Includes resources shared by @chriscantino (via Twitter) in this thread](https://twitter.com/chriscantino/status/1460339742764007427)
