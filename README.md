@@ -84,7 +84,7 @@
 
 * [a16z NFT canon](https://future.a16z.com/nft-canon/)
 
-*[NFTs make the Internet Ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
+* [NFTs make the Internet Ownable](https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo)
 
 * [Are NFTs Frigid Stars?](https://xenogothic.com/2021/10/07/are-nfts-frigid-stars/)
 
