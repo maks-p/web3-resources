@@ -1,6 +1,6 @@
 # Resources
 
-Some useful resources, courses and general links for learning about web3. But you should probably just head over to **[useweb3.xyz](https://www.useweb3.xyz/code-challenges)**.
+Some useful resources, courses and general links for learning about web3. But you should probably just head over to **[useweb3.xyz](https://www.useweb3.xyz)**.
 	
 ## Courses
 	
