@@ -22,9 +22,7 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Eat the Blocks Solidity Introduction](https://www.youtube.com/watch?v=p3C7jljTXaA&list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea)
 	
-* [React Refresh](https://scrimba.com/learn/learnreact/course-introduction-learning-philosophy-cWKkvVuL)
-	
-# Blogs, Etc
+## Blogs, Etc
 	
 * [Vitalik Buterin's Website](https://vitalik.ca/index.html)
 
@@ -33,8 +31,12 @@ Some useful resources, courses and general links for learning about web3.
 * [Gaby's web3 Reading List](https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524)
 
 * [Building an Inclusive World of Crypto](https://www.fwb.help/wip/building-an-inclusive-world-of-crypto)
+
+## Technical
+
+* [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
 	
-# Video
+## Video
 	
 * [The Defiant](https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg)
 	
