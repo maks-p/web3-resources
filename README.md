@@ -1,6 +1,12 @@
 # Resources
 
-Some useful resources, courses and general links for learning about web3. But you should probably just head over to **[useweb3.xyz](https://www.useweb3.xyz)**.
+Some useful resources, courses and general links for learning about web3.
+
+## Compilations of Resources
+
+* [useweb3.xyz](https://www.useweb3.xyz)
+
+* [Rising Tides Public Docs](https://therisingtides.notion.site/therisingtides/Rising-Tides-Public-Docs-2bf61443a21743c08c4bb8b6478463b2)
 	
 ## Courses
 	
