@@ -67,6 +67,8 @@ Some useful resources, courses and general links for learning about web3.
 * [OpenZeppelin](https://openzeppelin.com/contracts/)
 	
 ## Reference
+
+* [ERC721 Contract Template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
 	
 * [Solidity-by-Example](https://solidity-by-example.org/)
 	
