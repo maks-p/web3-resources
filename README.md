@@ -37,6 +37,12 @@ Some useful resources, courses and general links for learning about web3.
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
 
 * [Cool Cats Dev on Optimizing Gas Costs](https://medium.com/coinmonks/what-i-learned-from-building-cool-cats-nft-4057f279d400#5c83)
+
+## Security
+
+* [Solcurity](https://github.com/Rari-Capital/solcurity)
+
+* [SWC Registry](https://swcregistry.io/)
 	
 ## Video
 	
@@ -73,8 +79,6 @@ Some useful resources, courses and general links for learning about web3.
 * [ERC721 Contract Template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
 	
 * [Solidity-by-Example](https://solidity-by-example.org/)
-
-* Security: [SWC Registry](https://swcregistry.io/)
 	
 ## Papers
 	
