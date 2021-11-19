@@ -35,6 +35,8 @@ Some useful resources, courses and general links for learning about web3.
 ## Technical
 
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
+
+* [Cool Cats Dev on Optimizing Gas Costs](https://medium.com/coinmonks/what-i-learned-from-building-cool-cats-nft-4057f279d400#5c83)
 	
 ## Video
 	
