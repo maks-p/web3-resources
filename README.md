@@ -45,6 +45,8 @@ Some useful resources, courses and general links for learning about web3.
 * [SWC Registry](https://swcregistry.io/)
 	
 ## Video
+
+* [ETH Build](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 	
 * [The Defiant](https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg)
 	
@@ -79,6 +81,8 @@ Some useful resources, courses and general links for learning about web3.
 * [ERC721 Contract Template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
 	
 * [Solidity-by-Example](https://solidity-by-example.org/)
+
+* [ETH Build](https://eth.build/)
 	
 ## Papers
 	
