@@ -83,6 +83,14 @@ Some useful resources, courses and general links for learning about web3.
 * [Solidity-by-Example](https://solidity-by-example.org/)
 
 * [ETH Build](https://eth.build/)
+
+## Documentation
+
+* [Ethereum](https://ethereum.org/en/developers/docs/)
+
+* [Solidity](https://docs.soliditylang.org/en/v0.8.4/)
+
+* [Uniswap Documentation](https://docs.uniswap.org/protocol/introduction)
 	
 ## Papers
 	
@@ -95,8 +103,6 @@ Some useful resources, courses and general links for learning about web3.
 * [Flash Boys 2.0: Front Running, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
 	
 ## DeFi
-	
-* [Uniswap Documentation](https://docs.uniswap.org/protocol/introduction)
 	
 * [TokenSets](https://www.tokensets.com/explore)
 	
