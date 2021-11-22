@@ -75,6 +75,8 @@ Some useful resources, courses and general links for learning about web3.
 * [Hardhat](https://hardhat.org/)
 	
 * [OpenZeppelin](https://openzeppelin.com/contracts/)
+
+* [NFT Preview](https://nftpreview.0xdev.codes/)
 	
 ## Reference
 
