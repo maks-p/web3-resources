@@ -9,6 +9,8 @@ Some useful resources, courses and general links for learning about web3.
 * [Rising Tides Public Docs](https://therisingtides.notion.site/therisingtides/Rising-Tides-Public-Docs-2bf61443a21743c08c4bb8b6478463b2)
 	
 ## Courses
+
+* [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 	
 * [Udemy | Master Solidity and Smart Contracts - Blockchain Development: 2021](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/)
 	
