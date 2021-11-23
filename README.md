@@ -127,6 +127,8 @@ Some useful resources, courses and general links for learning about web3.
 * [Flashbots](https://docs.flashbots.net/new-to-mev)
 	
 * [Gitcoin](https://gitcoin.co/learn)
+
+* [Is Crypto Bullshit?](https://modelcitizen.substack.com/p/is-crypto-bullshit?r=dfrt&utm_campaign=post&utm_medium=web&utm_source=twitter)
 	
 
 ## Jobs
