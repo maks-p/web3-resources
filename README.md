@@ -112,6 +112,8 @@ Some useful resources, courses and general links for learning about web3.
 	
 * [DefiPulse](https://defipulse.com/)
 
+* [A Theory of Defi - Talk by Tim Roughgarden](https://www.youtube.com/watch?v=esekWF3SyB8)
+
 ## NFTs
 
 * [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens/?__cf_chl_jschl_tk__=rGtrc_uNJSnYdopkOE02EymjOWM5cmyNl5xv3wU7pkw-1637000566-0-gaNycGzNDxE)
