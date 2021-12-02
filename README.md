@@ -11,6 +11,8 @@ Some useful resources, courses and general links for learning about web3.
 ## Courses
 
 * [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
+
+* [EthereumDev](https://ethereumdev.io/)
 	
 * [Udemy | Master Solidity and Smart Contracts - Blockchain Development: 2021](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/)
 	
@@ -86,7 +88,11 @@ Some useful resources, courses and general links for learning about web3.
 	
 * [Solidity-by-Example](https://solidity-by-example.org/)
 
+* [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
+
 * [ETH Build](https://eth.build/)
+
+* [Solidity Cheatsheet](https://topmonks.github.io/solidity_quick_ref/)
 
 ## Documentation
 
@@ -138,4 +144,4 @@ Some useful resources, courses and general links for learning about web3.
 * [Crytpocurrency Jobs](https://cryptocurrencyjobs.co/web3/)
 
 ##
-_[Includes resources shared by @chriscantino (via Twitter) in this thread](https://twitter.com/chriscantino/status/1460339742764007427)_
+_Includes resources shared by @chriscantino and @oliverjumpertz (via Twitter)_
