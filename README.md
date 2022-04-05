@@ -27,6 +27,8 @@ Some useful resources, courses and general links for learning about web3.
 * [Dev.to | The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
 * [Eat the Blocks Solidity Introduction](https://www.youtube.com/watch?v=p3C7jljTXaA&list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea)
+
+* [Patrick McCorry | Cryptocurrency Class 2022](https://cryptocurrencyclass.github.io/)
 	
 ## Blogs, Etc
 	
