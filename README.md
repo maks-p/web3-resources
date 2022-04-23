@@ -6,7 +6,7 @@ Some useful resources, courses and general links for learning about web3.
 
 * [useweb3.xyz](https://www.useweb3.xyz)
 
-* [Rising Tides Public Docs](https://therisingtides.notion.site/therisingtides/Rising-Tides-Public-Docs-2bf61443a21743c08c4bb8b6478463b2)
+* [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
 	
 ## Courses
 
