@@ -88,7 +88,7 @@ Some useful resources, courses and general links for learning about web3.
 	
 ## Reference
 
-* [EVM Illustrated] (https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+* [EVM Illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 
 * [ERC721 Contract Template](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol)
 	
