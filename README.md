@@ -54,6 +54,8 @@ Some useful resources, courses and general links for learning about web3.
 	
 ## Video
 
+* [Ethereum Engineering Group](https://www.youtube.com/c/EthereumEngineeringGroup)
+
 * [ETH Build](https://www.youtube.com/playlist?list=PLJz1HruEnenCXH7KW7wBCEBnBLOVkiqIi)
 	
 * [The Defiant](https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg)
