@@ -102,6 +102,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Solidity Cheatsheet](https://topmonks.github.io/solidity_quick_ref/)
 
+* [EVM Yellow Paper Cheatsheet](https://github.com/benjaminion/YellowPaper_CheatSheet)
+
 ## Documentation
 
 * [Ethereum](https://ethereum.org/en/developers/docs/)
