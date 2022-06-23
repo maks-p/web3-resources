@@ -40,6 +40,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Building an Inclusive World of Crypto](https://www.fwb.help/wip/building-an-inclusive-world-of-crypto)
 
+* [Hyperstructure](https://jacob.energy/hyperstructures.html)
+
 ## Technical
 
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
