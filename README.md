@@ -42,6 +42,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Hyperstructure](https://jacob.energy/hyperstructures.html)
 
+* [Flavors of On Chain SVG NFTs](https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum)
+
 ## Technical
 
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
