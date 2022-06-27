@@ -50,6 +50,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Cool Cats Dev on Optimizing Gas Costs](https://medium.com/coinmonks/what-i-learned-from-building-cool-cats-nft-4057f279d400#5c83)
 
+* [Understanding Ethereum Smart Contract Storage](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/
+
 ## Security
 
 * [Solcurity](https://github.com/Rari-Capital/solcurity)
