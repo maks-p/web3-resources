@@ -10,6 +10,8 @@ Some useful resources, courses and general links for learning about web3.
 	
 ## Courses
 
+*[Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript - 32-Hour Course from freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
 * [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 
 * [EthereumDev](https://ethereumdev.io/)
@@ -19,8 +21,6 @@ Some useful resources, courses and general links for learning about web3.
 * [Udemy | The Complete NFT Web Development Course - Zero To Expert](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/learn/lecture/28730722?start=0#overview)
 	
 * [Udemy | Complete DApp - Solidity & React - Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/learn/lecture/27768132?start=0#overview)
-	
-* [Youtube | Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ&t=0s&ab_channel=freeCodeCamp.org)
 	
 * [Dev.to | The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 
