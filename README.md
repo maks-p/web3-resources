@@ -10,7 +10,7 @@ Some useful resources, courses and general links for learning about web3.
 	
 ## Courses
 
-*[Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript - 32-Hour Course from freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript - 32-Hour Course from freeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 * [Ethereum Dev Speed Run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 
