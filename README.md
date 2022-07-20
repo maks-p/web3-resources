@@ -54,6 +54,8 @@ Some useful resources, courses and general links for learning about web3.
 
 ## Security
 
+* [Consensys - Known Attacks](https://consensys.github.io/smart-contract-best-practices/attacks/)
+
 * [Solcurity](https://github.com/Rari-Capital/solcurity)
 
 * [SWC Registry](https://swcregistry.io/)
