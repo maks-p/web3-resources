@@ -44,6 +44,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [Flavors of On Chain SVG NFTs](https://blog.simondlr.com/posts/flavours-of-on-chain-svg-nfts-on-ethereum)
 
+* [The ultimate 100+ point checklist before sending your smart contract for audit](https://jeffrey-scholz.medium.com/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
+
 ## Technical
 
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
