@@ -46,6 +46,8 @@ Some useful resources, courses and general links for learning about web3.
 
 * [The ultimate 100+ point checklist before sending your smart contract for audit](https://jeffrey-scholz.medium.com/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
 
+* [What Happens When You Send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
+
 ## Technical
 
 * [Cut Minting Costs](https://shiny.mirror.xyz/OUampBbIz9ebEicfGnQf5At_ReMHlZy0tB4glb9xQ0E)
